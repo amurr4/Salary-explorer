@@ -1,4 +1,4 @@
-# Data Science Portfolio : Baseball Player salary prediction
+# Baseball Player salary prediction
 
 ### Overview
 
