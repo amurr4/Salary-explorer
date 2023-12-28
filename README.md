@@ -2,6 +2,6 @@
 
 ### Overview
 
-Welcome to my Data Science Portfolio! This repository showcases a collection of projects and analyses that highlight my skills in data science, machine learning, and data visualization. As a passionate data enthusiast, I enjoy exploring data to extract meaningful insights and build predictive models.
+Welcome to my Data Science Portfolio! This repository showcases my project, Baseball Player salary prediction using  *DATA*
 
 ### Project: Using multiple linear regression to predict baseball players salary
