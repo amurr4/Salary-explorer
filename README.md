@@ -1,4 +1,4 @@
-# Baseball Player salary explorer
+# Baseball Player Salary Explorer
 
 ### Overview
 Welcome to my Data Science Portfolio! This repository showcases my project, Exploring the trends between physical attributes and MLB salaries.
