@@ -1,5 +1,9 @@
 # Baseball Player Salary Explorer
 
+Author: Annika Murray
+
+Portfolio Webpage: https://amm7548.wixsite.com/am-portfoliom-ds
+
 ### Overview
 Welcome to my Data Science Portfolio! This repository showcases my project, Exploring the trends between physical attributes and MLB salaries.
 
